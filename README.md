@@ -6,7 +6,7 @@ This repository contains all versions of my resume — organized by year.
 
 ### 2025
 **English**  
-- [View Markdown](./Resume-2025.pdf)  
+- [View Resume](./Resume-2025.pdf)  
 - [Download PDF](https://github.com/user-attachments/files/23231674/YasinDehfuli-Resume-Linkedin.pdf)
 
 ---
@@ -15,7 +15,7 @@ This repository contains all versions of my resume — organized by year.
 
 | Year | English | Persian |
 |------|----------|----------|
-| 2025 | [MD](./Resume-2025.pdf) / [PDF](https://github.com/user-attachments/files/23231674/YasinDehfuli-Resume-Linkedin.pdf) | - |
+| 2025 | [Resume](./Resume-2025.pdf) / [Download](https://github.com/user-attachments/files/23231674/YasinDehfuli-Resume-Linkedin.pdf) | - |
 
 ---
 
@@ -25,5 +25,3 @@ This repository contains all versions of my resume — organized by year.
 - **LinkedIn:** [linkedin.com/in/yasin-dehfuli](https://www.linkedin.com/in/yasin-dehfuli/)  
 - **GitHub:** [github.com/YasinDehfuli](https://github.com/YasinDehfuli)  
 - **X (Twitter):** [x.com/YasinDehfuli](https://x.com/YasinDehfuli)
-
----
